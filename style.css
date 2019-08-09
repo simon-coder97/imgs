@@ -1,0 +1,47 @@
+a{
+   color:blue;
+   text-decoration:none;
+   font-family:sans serif;
+}
+main{
+	margin-left:150px;
+	float:left;
+	margin-right:200px;
+
+}
+h1 {
+	background: grey;
+	margin-left:50px;
+	margin-right:200px;
+	padding:20px;
+	text-align:center;
+	
+	
+}
+header h2{
+	background: grey;
+	margin-left:50px;
+	margin-right:200px;
+	padding:10px;
+	text-align:center;
+}
+img{
+	margin-left:200px;
+	margin-right:200px;
+}
+header p{
+	margin-left:200px;
+	margin-right:300px;
+	
+}
+main article p{
+	border-bottom: solid black;
+	color:grey;
+}
+footer{
+	margin-left:150px;
+	margin-right:200px;
+	padding:10px;
+	font-size:20px;
+	
+}
